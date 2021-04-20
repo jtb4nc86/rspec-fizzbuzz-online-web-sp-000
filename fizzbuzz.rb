@@ -3,10 +3,10 @@
 
 def fizzbuzz(int)
   
-  if 15 % 3 == 0
-    return "Fizz"
-  elsif 15 % 5 == 0 
+  if 15 % 5 == 0
     return "Buzz"
+  elsif 15 % 3 == 0 
+    return "Fizz"
  
   end
   
